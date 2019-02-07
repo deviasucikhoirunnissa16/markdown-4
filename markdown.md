@@ -16,7 +16,7 @@
 	3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan<br/>
 	3.3 Manajemen resiko<br/>
 	3.4 Mekanisme monittoring dan kontroling<br/>
-	3.5 Perencanaan staf<br/>
+	3.5 Perencanaan staf<br/><br/>
 	4. Proses Teknis<br/>
 	4.1 Metoda, tool, dan teknik<br/>
 	4.2 Dokumentasi prangkat lunak<br/>
