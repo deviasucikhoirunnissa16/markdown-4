@@ -23,7 +23,7 @@ akses kontrol dari lapisan data-link dari standar Ethernet berkabel. <br/><br/>
 
 <h3><p> 2. Organisasi proyek </p></h3><br/>
 2.1 Model proses<br/> 
-Kami menggunakan Model Proses Dengan Model waterfall dalam membangun sistem ini.<br/>
+<p>Kami menggunakan Model Proses Dengan Model waterfall dalam membangun sistem ini.</p><br/>
 
 2.2 Struktur organisasi <br/>
 susunan struktur organisasi pada proyek ini yatu :<br/>
@@ -34,7 +34,6 @@ susunan struktur organisasi pada proyek ini yatu :<br/>
 5. Penguna (Guru dan Siswa)<br/>
 
 2.3 Batasan dan antarmuka organisasi <br/>
-
 <ol>
 	<li>Ketua dimana harus mejadi pengawas dari anggota – anggotanya bilamana saat anggota lalai dengan tugas – tugasnya, Ketua berhak menegur dan bagi anggota tidak berhak melawan jika ditegur, dan untuk Ketua sendiri tidak berhak semena-mena \dengan jabatanya.</li>
 	<li>Programmer dimana dia bertanggung jawab untuk membuat dan menyempurnakan suatu program.</li>
@@ -48,7 +47,8 @@ Project Sponsor adalah seorang manajemen puncak (beserta anggota tim jika perlu)
 Manager adalah seseorang mempunyai tanggung jawab dan tugas yang besar dalam sebuah tim, tidak hanya terfokus pada hal-hal yang teknis sifatnya. Manager 
 juga harus mampu memajemen tim dengan baik, agar target projek dapat tercapai. Selain itu memberi pengarahan, memonitoring kinerja tim, serta serta membagi tugas juga bagian tanggung jawab dari seorang manager.<br/><br/>
 
-<p>3. Proses Manajerial</p>
+<h3><p>3. Proses Manajerial</h3></p><br/>
+
 3.1 Tujuan dan Prioritas Manajemen<br/>
 3.1.1 Prioritas Jadwal
 <p>Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan dibuat, dokumen projek, jadwal kegiatan, struktur pembuatan projek dan organisasi</p>
@@ -79,7 +79,7 @@ Tim Proyek terdiri dari :<br/>
 2. Kastuti sebagai Database Administrator dan Desain Project<br/>
 3. Reza Pahlevi Yahya sebagai Programmer<br/><br/>
 
-<p>4.Proses Teknis</p>
+<h3><p>4.Proses Teknis</p></h3><br/>
 4.1 Metoda, Tools, dan Teknik
 <p>Metode yang kami gunakan yaitu dengan cara menginputkan data materi pembelajaran yang digunakan sebagai indikator untuk pembelajaran. Tools yang digunakan adalah Laravel, Laragon, Sublime Text dan database Mysql.</p><br/>
 
@@ -90,6 +90,7 @@ Tim Proyek terdiri dari :<br/>
 <p>Kami membutuhkan technical support di bagian desain project. Kami membutuhkan technical support di bagian coding program sebanyak 2 orang. Kami membutuhkan specialist di bagian dasstabase sebanyak 1-2 orang.</p><br/>
 
 <h3><p> 5. Paket pekerjaan, jadwal, dan budget<p></h3> 
+	
  5.1 Paket pekerjaan <br/>
  Tuliskan dan rinci paket pekerjaan tiap-tiap personal sesuai dengan capaian yang diharapkan. 
 <br/>
@@ -106,8 +107,8 @@ Tim Proyek terdiri dari :<br/>
 </p>
 
  5.4 Alokasi budget dan sumber daya 
-Alokasi budget <br/>
 <p>
+Alokasi budget <br/>
 1. Akomodasi<br/>
 2. Hosting<br/>
 3. Domain<br/>
