@@ -1,29 +1,29 @@
 
-<h3><p> 1. Pendahuluan </p></h3>
+<h3><p> 1. Pendahuluan </p></h3><br/>
 
 1.1 Gambaran proyek <br/>
 Proyek yang akan kami buat adalah membangun sebuah sistem pembelajaran online pada SMA NEGERI 1 JATIBARANG seperti halnya elearning pada jurusan teknik informatika tetapi bedanya kami ingin membuat hal yang lebih sederhananya. Pada sistem pembelajaran online ini ada beberapa materi yang akian dikirim oleh guru pengampunya. Prosesnya adalah Guru akan mengirim pelajaran yang akan diajarkan pada siswanya dan siswa dapat men-download materi tersebut. Jadi kami ingin mempermudah perjalanan KBM(Kegiatan Belajar Mengajar) yang kami harapkan semoga aplikasi ini sangat bermanfaat bagi sekolah,guru,dan siswa pada SMA NEGERI 1 JATIBARANG. <br/>
-Proyek ini dibuatkan oleh kelompok 4 dengan beranggotakan 3 orang meliputi : Devia Suci Khoirun Nissa sebagai Project Manager, Kastuti sebagai Database Administrator, dan Reza Pahlevi yahya sebagai Programmer.<br/><br/>
+Proyek ini dibuatkan oleh kelompok 4 dengan beranggotakan 3 orang meliputi : Devia Suci Khoirun Nissa sebagai Project Manager, Kastuti sebagai Database Administrator, dan Reza Pahlevi yahya sebagai Programmer.<br/>
 
 1.2 Dokumen-dokumen dalam proyek<br/> 
 Saat mengerjakan proyek ini, pencatatan kegiatan yang telah dilakukan ditulis didalam log book kelompok, anggota yang telah mengerjakan tugas sesuai proyek 
 kegiatannya dicatat dalam log book, selain log book dokumen yang berkaitan dengan proyek ini meliputi requirtments, penjadwalan, pembagian tugas, dan 
-referensi-referensi yang berkaitan dengan pembuatan projek kami. Pada setiap tahan Proyek ini kami akan mengirimkan ke alamat Repository yang telah disediahkan oleh project manager kami  <br/><br/>
+referensi-referensi yang berkaitan dengan pembuatan projek kami. Pada setiap tahan Proyek ini kami akan mengirimkan ke alamat Repository yang telah disediahkan oleh project manager kami  <br/>
 
 1.3 Evolusi SPMP <br/>
-Dokumen ini bersifat khusus, jadi dokumen ini hanya untuk keperluan Sekolah, Guru, dan Siswa pada SMA NEGERI 1 JATIBARANG untuk hal yang positif. Tentu ada hal-hal yang tidak boleh dilakukan dalam pemanfaatan dokumen ini, seperti menjualbelikan dokumen ini secara ilegal, atapun mengubah dokumen tanpa dasar yang jelas. <br/><br/>
+Dokumen ini bersifat khusus, jadi dokumen ini hanya untuk keperluan Sekolah, Guru, dan Siswa pada SMA NEGERI 1 JATIBARANG untuk hal yang positif. Tentu ada hal-hal yang tidak boleh dilakukan dalam pemanfaatan dokumen ini, seperti menjualbelikan dokumen ini secara ilegal, atapun mengubah dokumen tanpa dasar yang jelas. <br/>
 
 1.4 Material acuan/referensi<br/> 
-Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE, karena menyediakan kerangka kerja yang menggabungkan seluruh spektrum proses siklus hidup perangkat lunak. Dan juga standar IEEE untuk membentuk model yang diakui secara internasional dari kehidupan perangkat lunak umum, siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruh dunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasi umum serta mengakui proses, kegiatan dan tugas.<br/><br/>
+Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE, karena menyediakan kerangka kerja yang menggabungkan seluruh spektrum proses siklus hidup perangkat lunak. Dan juga standar IEEE untuk membentuk model yang diakui secara internasional dari kehidupan perangkat lunak umum, siklus proses yang dapat direferensikan oleh industri perangkat lunak diseluruh dunia, untuk mempromosikan pemahaman diantara pihak bisnis dengan aplikasi umum serta mengakui proses, kegiatan dan tugas.<br/>
 
 1.5 Definisi dan akronim <br/>
 Dalam penulisan dokumen pembuatan projek ini, ada beberapa kata yang mungkin akan sulit dipahami oleh orang awam berikut ini : <br/>
 IEEE (The International Institute of Electronic and Electrical Engineers) adalah standar yang mendefinisikan lapisan fisik dan sublapisan media 
 akses kontrol dari lapisan data-link dari standar Ethernet berkabel. <br/><br/>
 
-<h3><p> 2. Organisasi proyek </p></h3>
+<h3><p> 2. Organisasi proyek </p></h3><br/>
 2.1 Model proses<br/> 
-Kami menggunakan Model Proses Dengan Model waterfall dalam membangun sistem ini.<br/><br/>
+Kami menggunakan Model Proses Dengan Model waterfall dalam membangun sistem ini.<br/>
 
 2.2 Struktur organisasi <br/>
 susunan struktur organisasi pada proyek ini yatu :<br/>
@@ -48,7 +48,6 @@ Project Sponsor adalah seorang manajemen puncak (beserta anggota tim jika perlu)
 Manager adalah seseorang mempunyai tanggung jawab dan tugas yang besar dalam sebuah tim, tidak hanya terfokus pada hal-hal yang teknis sifatnya. Manager 
 juga harus mampu memajemen tim dengan baik, agar target projek dapat tercapai. Selain itu memberi pengarahan, memonitoring kinerja tim, serta serta membagi tugas juga bagian tanggung jawab dari seorang manager.<br/><br/>
 
-
 <p>3. Proses Manajerial</p>
 3.1 Tujuan dan Prioritas Manajemen<br/>
 3.1.1 Prioritas Jadwal
@@ -56,11 +55,10 @@ juga harus mampu memajemen tim dengan baik, agar target projek dapat tercapai. S
 3.1.2 Budget 
 <p>Prioritas budget ini lebih ditekankan pada requirtment proyek</p>
 3.1.3 Kemampuan
-<p>Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen
-pembuatan proyek, juga berbasis web yang membuat konsumen merasa lebih
-budah dalam interaksinya.</p><br/>
+<p>Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen pembuatan proyek, juga berbasis web yang membuat konsumen merasa lebih udah dalam interaksinya.</p><br/>
 
-3.2 Asumsi, Keterkaitan dan Batasan
+3.2 Asumsi, Keterkaitan dan Batasan<br/>
+
 3.2.1 Asumsi
 <p>Adapun aplikasi yang sejenis aplikasi pembelajaran berbasis web responsif, proyek yang kami buat membutuhkan unit komputer dan handphone sebagai media penghubungnya</p>
 3.2.2 Keterkaitan dan Batasan
@@ -81,7 +79,6 @@ Tim Proyek terdiri dari :<br/>
 2. Kastuti sebagai Database Administrator dan Desain Project<br/>
 3. Reza Pahlevi Yahya sebagai Programmer<br/><br/>
 
-
 <p>4.Proses Teknis</p>
 4.1 Metoda, Tools, dan Teknik
 <p>Metode yang kami gunakan yaitu dengan cara menginputkan data materi pembelajaran yang digunakan sebagai indikator untuk pembelajaran. Tools yang digunakan adalah Laravel, Laragon, Sublime Text dan database Mysql.</p><br/>
@@ -90,5 +87,40 @@ Tim Proyek terdiri dari :<br/>
 <p>Dokumentasi perangkat lunak yang digunakan berdasarkan standar internasional IEEE, karena telah menyediakan kerangka kerja yang menghubungkan seluruh spektrum siklus hidup perangkat lunak</p><br/>
 
 4.3 Fungsi-Fungsi Pendukung Proyek
-<p>Kami membutuhkan technical support di bagian desain project. Kami membutuhkan technical support di bagian coding program sebanyak 2 orang. Kami membutuhkan specialist di bagian dasstabase sebanyak 1-2 orang.</p> 
- 
+<p>Kami membutuhkan technical support di bagian desain project. Kami membutuhkan technical support di bagian coding program sebanyak 2 orang. Kami membutuhkan specialist di bagian dasstabase sebanyak 1-2 orang.</p><br/>
+
+<h3><p> 5. Paket pekerjaan, jadwal, dan budget<p></h3> 
+ 5.1 Paket pekerjaan <br/>
+ Tuliskan dan rinci paket pekerjaan tiap-tiap personal sesuai dengan capaian yang diharapkan. 
+<br/>
+
+ 5.2 Ketergantungan/keterkaitan
+<p>Jadi tugas paling dasar adalah analisis dan selanjutnya tugas keduanya database administrator, dan untuk tugas ketiga programmer jadi tugas programmer ini bertugas dari terakhir. Menunggu dari tugas yang lain.<br/></p>
+
+ 5.3 Kebutuhan sumber daya Elaborasi kebutuhan
+<p>
+1. Akomodasi<br/>
+2. Hosting<br/>
+3. Domain<br/>
+4. Laptop/PC<br/>
+</p>
+
+ 5.4 Alokasi budget dan sumber daya 
+Alokasi budget <br/>
+<p>
+1. Akomodasi<br/>
+2. Hosting<br/>
+3. Domain<br/>
+Sumber daya<br/>
+1. Laptop/PC<br/>
+2. Motor<br/>
+</p>
+ 5.5 Jadwal<br/> 
+ 1. Pembuatan Konsep<br/>
+ 2. Pembuatan Proposal<br/>
+ 3. Survei<br/>
+ 4. Pembuatan Mock Up<br/>
+ 5. Perencanaan Aplikasi<br/>
+ 6. Pembuatan Aplikasi<br/>
+ 7. Uji Coba<br/>
+ 8. Pembuatan Laporan<br/>
