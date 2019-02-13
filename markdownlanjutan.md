@@ -46,5 +46,49 @@ susunan struktur organisasi pada proyek ini yatu :<br/>
 Lingkup dan tanggung jawab ini berisi tugas dari setiap elemen anggota dalam pembuatan proyek RPL ini. <br/>
 Project Sponsor adalah seorang manajemen puncak (beserta anggota tim jika perlu), yang diserahkan tugas khusus oleh perusahaan sebagai penanggung jawab proyek sistem informasi. Secara prinsip, Direktur Utama atau Presiden Direktur-lah yang harus menjadi Project Sponsor. <br/>
 Manager adalah seseorang mempunyai tanggung jawab dan tugas yang besar dalam sebuah tim, tidak hanya terfokus pada hal-hal yang teknis sifatnya. Manager 
-juga harus mampu memajemen tim dengan baik, agar target projek dapat tercapai. Selain itu memberi pengarahan, memonitoring kinerja tim, serta serta membagi tugas juga bagian tanggung jawab dari seorang manager.<br/> 
+juga harus mampu memajemen tim dengan baik, agar target projek dapat tercapai. Selain itu memberi pengarahan, memonitoring kinerja tim, serta serta membagi tugas juga bagian tanggung jawab dari seorang manager.<br/><br/>
+
+
+<p>3. Proses Manajerial</p>
+3.1 Tujuan dan Prioritas Manajemen<br/>
+3.1.1 Prioritas Jadwal
+<p>Prioritas jadwal yang dilakukan pada saat ini adalah membuat sistem yang akan dibuat, dokumen projek, jadwal kegiatan, struktur pembuatan projek dan organisasi</p>
+3.1.2 Budget 
+<p>Prioritas budget ini lebih ditekankan pada requirtment proyek</p>
+3.1.3 Kemampuan
+<p>Projek yang kami buat saat ini mempunyai kelebihan dalam memanajemen
+pembuatan proyek, juga berbasis web yang membuat konsumen merasa lebih
+budah dalam interaksinya.</p><br/>
+
+3.2 Asumsi, Keterkaitan dan Batasan
+3.2.1 Asumsi
+<p>Adapun aplikasi yang sejenis aplikasi pembelajaran berbasis web responsif, proyek yang kami buat membutuhkan unit komputer dan handphone sebagai media penghubungnya</p>
+3.2.2 Keterkaitan dan Batasan
+<p>Dalam projek yang kami buat adapun beberapa software yang mendukungnya, seperti xampp sebagai perantara mysql database. Namun ada batasannya, yaitu baik pengajar maupun pelajar hanya dapat mengakses sistem ini jika sudah login.</p><br/>
+
+3.3 Manajemen Resiko
+<p>Dampak negatif yang muncul saat pembuatan proyek bisa berupa pengembangan software yang salah, keterlambatan membangun kebutuhan software, pengembangan terlalu sulit secara teknis. Manajemen resiko dari dampak-dampak negatif tersebut bisa berupa evaluasi proyek yang ditingkatkan, mengubah prosedur kendali, meningkatkan pengembangan.</p><br/>
+
+3.4 Mekanisme Monitoring dan Kontroling
+3.4.1 Monitoring
+<p>Proses monitoring dilakukan secara tim, adapun proses pelaksanaannya dilakukan setiap hari rabu.</p>
+3.4.2 Kontroling
+<p>Sedangkan proses dilaksanakan setiap hari jumat, hal ini dilakukan agar hasil kerja proyek dapat dievaluasi pada hari terakhir kerja.</p><br/>
+
+3.5 Perencanaan Staf
+Tim Proyek terdiri dari :<br/>
+1. Devia Suci Khoirun Nissa Sebagai Project Manager<br/>
+2. Kastuti sebagai Database Administrator dan Desain Project<br/>
+3. Reza Pahlevi Yahya sebagai Programmer<br/><br/>
+
+
+<p>4.Proses Teknis</p>
+4.1 Metoda, Tools, dan Teknik
+<p>Metode yang kami gunakan yaitu dengan cara menginputkan data materi pembelajaran yang digunakan sebagai indikator untuk pembelajaran. Tools yang digunakan adalah Laravel, Laragon, Sublime Text dan database Mysql.</p><br/>
+
+4.2 Dokumentasi Perangkat Lunak
+<p>Dokumentasi perangkat lunak yang digunakan berdasarkan standar internasional IEEE, karena telah menyediakan kerangka kerja yang menghubungkan seluruh spektrum siklus hidup perangkat lunak</p><br/>
+
+4.3 Fungsi-Fungsi Pendukung Proyek
+<p>Kami membutuhkan technical support di bagian desain project. Kami membutuhkan technical support di bagian coding program sebanyak 2 orang. Kami membutuhkan specialist di bagian dasstabase sebanyak 1-2 orang.</p> 
  
