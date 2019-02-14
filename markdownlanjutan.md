@@ -1,14 +1,14 @@
 
 <h3><p> 1. Pendahuluan </p></h3><br/>
 
-1.1 Gambaran proyek 
-<p>Proyek yang akan kami buat adalah membangun sebuah sistem pembelajaran online pada SMA NEGERI 1 JATIBARANG seperti halnya elearning pada jurusan teknik informatika tetapi bedanya kami ingin membuat hal yang lebih sederhananya. Pada sistem pembelajaran online ini ada beberapa materi yang akian dikirim oleh guru pengampunya. Prosesnya adalah Guru akan mengirim pelajaran yang akan diajarkan pada siswanya dan siswa dapat men-download materi tersebut. Jadi kami ingin mempermudah perjalanan KBM(Kegiatan Belajar Mengajar) yang kami harapkan semoga aplikasi ini sangat bermanfaat bagi sekolah,guru,dan siswa pada SMA NEGERI 1 JATIBARANG. <br/>
+1.1 Gambaran proyek<br/ >
+Proyek yang akan kami buat adalah membangun sebuah sistem pembelajaran online pada SMA NEGERI 1 JATIBARANG seperti halnya elearning pada jurusan teknik informatika tetapi bedanya kami ingin membuat hal yang lebih sederhananya. Pada sistem pembelajaran online ini ada beberapa materi yang akian dikirim oleh guru pengampunya. Prosesnya adalah Guru akan mengirim pelajaran yang akan diajarkan pada siswanya dan siswa dapat men-download materi tersebut. Jadi kami ingin mempermudah perjalanan KBM(Kegiatan Belajar Mengajar) yang kami harapkan semoga aplikasi ini sangat bermanfaat bagi sekolah,guru,dan siswa pada SMA NEGERI 1 JATIBARANG. <br/>
 Proyek ini dibuatkan oleh kelompok 4 dengan beranggotakan 3 orang meliputi : Devia Suci Khoirun Nissa sebagai Project Manager, Kastuti sebagai Database Administrator, dan Reza Pahlevi yahya sebagai Programmer.<br/>
-</p>
+
 1.2 Dokumen-dokumen dalam proyek<br/> 
 Saat mengerjakan proyek ini, pencatatan kegiatan yang telah dilakukan ditulis didalam log book kelompok, anggota yang telah mengerjakan tugas sesuai proyek 
 kegiatannya dicatat dalam log book, selain log book dokumen yang berkaitan dengan proyek ini meliputi requirtments, penjadwalan, pembagian tugas, dan 
-referensi-referensi yang berkaitan dengan pembuatan projek kami. Pada setiap tahan Proyek ini kami akan mengirimkan ke alamat Repository yang telah disediahkan oleh project manager kami  <br/>
+referensi-referensi yang berkaitan dengan pembuatan projek kami. Pada setiap tahan Proyek ini kami akan mengirimkan ke alamat Repository yang telah disediahkan oleh project manager kami <br/><br />
 
 1.3 Evolusi SPMP <br/>
 Dokumen ini bersifat khusus, jadi dokumen ini hanya untuk keperluan Sekolah, Guru, dan Siswa pada SMA NEGERI 1 JATIBARANG untuk hal yang positif. Tentu ada hal-hal yang tidak boleh dilakukan dalam pemanfaatan dokumen ini, seperti menjualbelikan dokumen ini secara ilegal, atapun mengubah dokumen tanpa dasar yang jelas. <br/>
