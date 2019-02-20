@@ -50,3 +50,18 @@ bagian pertama berisi penjelasan tentang dokumen SRS yang mencakup tujuan pembua
 <h4>2.5 Asumsi-asumsi dan keterkaitan</h4>
 
 <h4>2.6 Kebutuhan penyeimbang</h4>
+
+<p><h2>3.	Kebutuhan lain yang spesifik</h2></p>
+Kebutuhan Fungsional adalah kebutuhan yang harus dipenuhi agar suatu sistem dapat berjalan atau dapat dikatakan kebutuhan tambahan yang memiliki input, proses, dan output. Kebutuhan fungsional yang harus ada dalam sistem yang akan dikembangkan ini adalah sebagai berikut:<br/>
+1.	Sistem harus dapat mempermudah pengguna / user dalam pembagian kelompok.<br/>
+2.	Sistem harus dapat mempermudah pengguna / user dalam menggunkan aplikasi ini.<br/>
+
+<h2><p>4. Informasi pendukung</p></h2>
+ Aplikasi kami memerlukan beberapa informasi pendukung seperti ;
+ <ol>
+ 	<li>Data sekolah</li>
+ 	<li>Data siswa</li>
+ 	<lI>Data mata pelajaraan</lI>
+ 	<li>Data soal ujian</li>
+ </ol>
+ Informasi yang berupa data tersebut di perlukan untuk menyempurnakan aplikasi yang kami buat.
