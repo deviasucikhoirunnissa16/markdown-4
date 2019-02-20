@@ -1,4 +1,9 @@
-<h3>3. Kebutuhan lain yang spesifik</h3>
- Tuliskan kebutuhan lain yang diperlukan secara spesifik jika diperlukan.
 <h3>4. Informasi pendukung</h3>
- Tuliskan informasi pendukung lainnya jika diperluka.
+ Aplikasi kami memerlukan beberapa informasi pendukung seperti ;
+ <ol>
+ 	<li>Data sekolah</li>
+ 	<li>Data siswa</li>
+ 	<lI>Data mata pelajaraan</lI>
+ 	<li>Data soal ujian</li>
+ </ol>
+ Informasi yang berupa data tersebut di perlukan untuk menyempurnakan aplikasi yang kami buat.
