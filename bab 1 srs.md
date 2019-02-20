@@ -25,7 +25,7 @@ bagian pertama berisi penjelasan tentang dokumen SRS yang mencakup tujuan pembua
 <h4>2.1 Perspektif produk</h4>
 <p>Aplikasi Ujian Online Berbasis Website di SMAN 1 Jatibarang adalah aplikasi yang menerapkan ujian menggunakan akses internet atau onlin. Dimana siswa dan siswi tidak perlu menggunakan peralatan ATK (Alat Tulis Kantor) tetapi hanya menggunakan electronik seperti laptop atau pun komputer, bahkan bisa untuk hp karena sudah berbasis website responsive dengan syarat dan ketentuan spesifikasi yang sudah ditentukan.</p>
 <h4>2.1.1 Antarmuka sistem</h4>
-<img src="E/antarmuka sistem.png">
+<p>Antarmuka sistem pada aplikasi ini terdiri dari  developer, database dan user</p>
 <h4>2.1.2 Antarmuka pengguna</h4>
 <p>Aplikasi Ujian Online di SMAN 1 Jatibarang ini menggunakan antarmuka berbasis website dan pengguna mengoperasikannya menggunakan keyboard dan mouse dengan sistem operasi Windows. Rancangan antarmuka ini berfungsi untuk memperjelas mengenai menu program Aplikasi Ujian Online di SMAN 1 Jatibarang.</p>
 <h4>2.1.3 Antarmuka perangkat keras</h4>
@@ -46,7 +46,10 @@ Keyboard : Keyboard diperlukan sebagai sarana bagi pemakai untuk mengetikkan dat
 <h4>2.1.5 Antarmuka komunikasi</h4>
 <p>Antarmuka komunikasi yang digunakan pada aplikasi ini ini adalah internet</p>
 <h4>2.1.6 Batasan memori</h4>
-<p>- RAM yang kami gunakan adalah 4Gb, tapi untuk kapassitas minimum 2 Gb.<br>- Memori yang dibutuhkan untuk aplikasi minimal 20Mb.</p>
+<ol>
+	<li>RAM yang kami gunakan adalah 4Gb, tapi untuk kapassitas minimum 2 Gb</li>
+	<li>Memori yang dibutuhkan untuk aplikasi minimal 20Mb</li>
+</ol>
 <h4>2.1.7 Operasi-operasi</h4>
 <p>Operasi-operasi yang ada pada aplikasi ini yaitu :
 <ol>
@@ -58,9 +61,10 @@ Keyboard : Keyboard diperlukan sebagai sarana bagi pemakai untuk mengetikkan dat
 	<li>menghapus</li>
 </ol></p>
 <h4>2.1.8 Kebutuhan adaptasi</h4>
-<p>- Pemakaian data basa sebagai sarana penyimpanan data.<br>
-- PL menggunakan bahasa Indonesia agar mudah dipahami oleh user.</p>
-
+<ol>
+	<li>Pemakaian data basa sebagai sarana penyimpanan data</li>
+	<li>PL menggunakan bahasa Indonesia agar mudah dipahami oleh user</li>
+</ol>
 <h4>2.2 Fungsi-fungsi produk</h4>
 <p>Fungsi Aplikasi Ujian Online Berbasis Website di SMAN 1 Jatibarang ini adalah menyediakan kemudahan dalam proses ujian tengah semester, ujian akhir semester, ujian harian dan ujian-ujian lainnya dengan harapan para siswa sudah terbiasa dengan pelaksanaan ujian secara online sebelum menghadapi ujian sekolah dan ujian nasional yang sudah menerapkan sistem online.</p>
 
