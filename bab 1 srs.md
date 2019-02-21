@@ -1,6 +1,6 @@
 <p><h2>1.	Pendahuluan</h2></p>
 <p><h4>1.1	Tujuan</h4></p>
-Dokumen Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun ”Aplikasi Random Grup”. Dokumen ini dibangun untuk memudahkan dalam melakukan proses pembagian kelompok secara acak dan merata yang dilakukan oleh pengguna. Sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak ”ARG” (aplikasi random grup).<br/>
+Dokumen Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun ”Aplikasi Ujian Online Di SMAN 1 Jatibarang Berbasis Web”. Dokumen ini dibangun untuk memudahkan dalam melakukan setiap kali ujian ataupun evaluasi per semester membantu guru dan siswa. Sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak ”ARG” (aplikasi random grup).<br/>
 <p><h4>1.2	Lingkup Masalah</h4></p>
 ARG merupakan aplikasi yang kami bangun untuk mempermudah pengguna dalam 
 membagi sebuah atau beberapa kelompok dengan mudah dan praktis tanpa menggunakan kertas secara manual. Artinya dengan aplikasi ini kita tidak perlu repot - repot membuang kertas hanya untuk membagi sebuah kelompok yang acak.<br/>
