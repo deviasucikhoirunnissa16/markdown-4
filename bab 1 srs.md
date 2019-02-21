@@ -75,7 +75,7 @@ Keyboard : Keyboard diperlukan sebagai sarana bagi pemakai untuk mengetikkan dat
 <p>Hanya dapat dioperasikan pada OS Window 7 atau sistem operasi window di atas OS tersebut.</p>
 
 <h4>2.5 Asumsi-asumsi dan keterkaitan</h4>
-<p>Aplikasi Ujian Online Berbasis Website di SMAN 1 Jatibarang ini dapat dikembangkan lagi, seperti menambah beberapa fungsi yang lebih kompleks. Dapat pula dikombinasikan dengan mobile programming, agar user dapat lebih mudah mengoperasikan aplikasi ini melalui smartphone.</p>
+<p>Aplikasi Ujian Online Berbasis Website di SMAN 1 Jatibarang ini dapat dikembangkan lagi, seperti menambah beberapa fungsi yang lebih kompleks. Dapat pula dikombinasikan dengan mobile programming, agar user dapat lebih mudah mengoperasikan aplikasi ini melalui aplikasi mobile yang dapat diinstall pada smartphone mereka.</p>
 
 <h4>2.6 Kebutuhan penyeimbang</h4>
 <ol>
