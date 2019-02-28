@@ -26,12 +26,62 @@ Referensi yang digunakan dalam pengembangan perangkat lunak ini adalah:<br/>
 
 <h2>3. Penjelasan Dekomposisi</h2>
 <h4>3.1 Dekomposisi Modul</h4>
-3.1.1 Deskripsi Modul 1<br>
-3.1.2 Deskripsi Modul 2<br>
+<p>Kebutuhan fungsional (Functional Requirements) ini adalah kebutuhan utama yang diharapkan dari sistem ini, yang terkait langsung dengan sistem ini. Kebutuhan fungsional dari sistem ini adalah sebagai berikut:
+<ol>
+	<li>Pencatatan Hak Akses</li>
+	<li>Pencatatan Nama aplikasi , Nama Kategori dan Nama Client</li>
+	<li>Pencatatan Target Waktu , Jumlah Orang dan Biaya Aplikasi</li>
+</ol>
+Spesifikasi yang diharapkan pada Pencatatan Hak Akses :
+<ol>
+	<li>Membedakan antara Admin, Guru dan Siswa</li>
+	<li>Sistem dapat memproses secara otomatis jika kita terdaftar sebagai admin memiliki hak akses penuh dan ketika kiita terdaftar sebagai guru dan siswa tidak memiliki hak akses penuh</li>
+</ol>
+Spesifikasi yang diharapkan pada Pancatatan Nama Aplikasi, Nama Kategori dan Nama Client :
+<ol>
+	<li>Mencatat nama aplikasi apa yang akna di buat dalam sebuah project</li>
+	<li>Mencatat nama-nama kategori apa yang akan di buat di sebuah project</li>
+	<li>Mencatat nama client yang mau di buat kan sebuah project</li>
+</ol>
+Spesifikasi yang diharapkan pada Pencatatan Target Waktu , Jumlah Orang dan Biaya Aplikasi :
+<ol>
+	<li>Sistem dapat memproses secara otomatis target waktu aplikasi yang akan di buat dalam sebuah project</li>
+	<li>Sistem dapat memproses secara otomatis jumlah orang dalam project</li>
+	<li>Sistem dapat memproses secara otomatis biaya dalam sebuah aplikasi yang akan di buat</li>
+</ol>
+</p>
 
 <h4>3.2 Dekomposisi Proses Konkuren</h4>
-3.2.1 Deskripsi Proses 1<br>
-3.2.2 Deskripsi Proses 2<br>
+<p>
+	Konkurensi adalah proses-proses (lebih dari satu proses) yang terjadi pada saat bersamaan. Konkurensi merupakan landasan umum perancangan sistem operasi. Proses-proses disebut konkuren jika proses-proses berada pada saat yang sama. Pada proses-proses konkuren yang berinteraksi mempunyai beberapa masalah yang harus diselesaikan:
+	<ol>
+		<li>Mutual Exclusion</li>
+		<li>Sinkronisasi</li>
+		<li>Deadlock</li>
+		<li>Startvation</li>
+	</ol>
+	Pada sistem dengan banyak proses (kongkuren), terdapat 3 katagori interaksi, yaitu:
+	<ol>
+		<li>Proses-proses Saling Tidak Peduli (Independen).<br>
+		Proses-proses ini tidak dimaksudkan untuk bekerja untukmencapai tujuan tertentu. Pada multiprogramming dengan proses-proses independen, dapat berupa batch atau sesi interaktif, atau campuran keduanya.</li>
+
+		<li>Proses-proses Saling Mempedulikan Secara Tidak Langsung.<br>
+		Proses-proses tidak perlu saling mempedulikan identitas proses-proses lain, tapi sama-sama mengakses objek tertentu, seperti buffer masukan/keluaran. Proses-proses itu perlu bekerja sama (cooperation) dalam memakai bersama objek tertentu.
+		</li>
+		<li>Proses-proses konkuren mengharuskan beberapa hal yang harus ditangani, antara lain:<br>
+		a. Sistem operasi harus mengetahui proses-proses yang aktif<br>
+		b. Sistem operasi harus mengalokasikan dan mendealokasikan beragam sumber daya untuk tiap proses aktif. Sumber daya yang harus dikelola, antara lain:
+		<ol>
+			<li>Waktu pemroses.</li>
+			<li>Memri</li>
+			<li>Berkas-Berkas</li>
+			<li>Perangkat I/O</li>
+		</ol>
+		c. Sistem operasi harus memproteksi data dan sumber daya fisik masing-masing proses dari gangguan proses-proses lain.<br>
+		d. Hasil-hasil proses harus independen terhadap kecepatan relatif proses-proses lain dimana eksekusi dilakukan.
+		</li>
+	</ol>
+</p>
 
 <h4>3.3 Dekomposisi Data</h4>
 3.3.1 Deskripsi Entri Data 1<br>
@@ -41,9 +91,9 @@ Referensi yang digunakan dalam pengembangan perangkat lunak ini adalah:<br/>
 <h4>4.1 Keterkaitan Inter Modul</h4>
 <p>Ketika merancang sebuah Dependensi Inter-modul sistem, dapat dirancang dengan dua cara yang luas dan cara pertama adalah untuk merancang sistem yang lengkap dengan menggunakan sistem yang sudah diketahui dan mengimplementasikan fitur baru yang diperlukan untuk meningkatkan efektivitas sistem dan mengujinya di kondisi nyata. Cara alternatif akan merancang sistem dan biasanya karena biaya untuk menyiapkan antarmuka antara modul. Modul dari siaran berita Sistem SCC tergantung pada penyebaran informasi. Antar-modul dari penelitian ini adalah tampilan dari pengumuman dan itu termasuk database sistem. Kemudian seluruh informasi yang telah dimasukkan akan disimpan dalam database, yang berasal dari proses input sampai pengumuman menampilkan ke monitor lain.</p>
 <h4>4.2 Keterkaitan Inter Proses</h4>
-<p>Proses yang dilakukan oleh pengguna dalam melakukan pemesanan proyek aplikasi akan mempengaruhi beberapa proses lainya seperti penentuan value, dan penjadwalan. Juga data akan tersimpan sebagai riwayat proses pemesanan.</p>
+<p>Proses yang dilakukan oleh pengguna dalam melakukan ujian online akan mempengaruhi beberapa proses lainya seperti penentuan value, dan penjadwalan. Juga data akan tersimpan sebagai riwayat proses pemesanan.</p>
 <h4>4.3 Keterkaitan Data</h4>
-<p>Proses yang dilakukan oleh pengguna dalam melakukan pemesanan proyek aplikasi akan mempengaruhi beberapa proses lainya seperti penentuan value, dan penjadwalan. Juga data akan tersimpan sebagai riwayat proses pemesanan.</p>
+<p>Dependensi data didasarkan pada pengguna. Mereka adalah orang yang akan menggunakan sistem ujian online ini.</p>
 
 <h3>5. Deskripsi Antarmuka</h3>
 
