@@ -2,14 +2,15 @@
 <p><h4>1.1	Tujuan</h4></p>
 Dokumen Software Requirement Specification (SRS) merupakan dokumen spesifikasi perangkat lunak untuk membangun ”Aplikasi Ujian Online Di SMAN 1 Jatibarang Berbasis Web”. Dokumen ini dibangun untuk memudahkan dalam melakukan setiap kali ujian ataupun evaluasi per semester membantu guru dan siswa. Sehingga dokumen ini dapat dijadikan acuan teknis untuk membangun perangkat lunak ”ARG” (aplikasi random grup).<br/>
 <p><h4>1.2	Lingkup Masalah</h4></p>
-ARG merupakan aplikasi yang kami bangun untuk mempermudah pengguna dalam 
-membagi sebuah atau beberapa kelompok dengan mudah dan praktis tanpa menggunakan kertas secara manual. Artinya dengan aplikasi ini kita tidak perlu repot - repot membuang kertas hanya untuk membagi sebuah kelompok yang acak.<br/>
+Ruang Lingkup dalam latar belakang yang dijelaskan diatas ini yaitu:<br/>
+1.	Sistem ini hanya berupa prototipe, yang memberikan penataan atau pengaturan tentang ujian secara online.<br/>
+2.	Lokasi yang menjadi tempat sampling adalah SMA N 1 Jaibarang. <br/>
+3.	Prototipe aplikasi ini dibangun menggunakan PHP MyAdmin dan MySql sebagai databasenya.<br/> 
 <p><h4>1.3	Definisi, akronim, singkatan</h4></p>
 Akronim dan Singkatan :<br/>
-•	ARG : Aplikasi Random Grup<br/>
-•	SRS : Software Requirement Specification<br/>
+•	HTML : HyperText Markup Language<br/>
 Definisi :<br/>
-•	Software Requirement Specification adalah perangkat lunak yang akan dibuat dan sebagai penyembatani komunikasih pembuat dengan pengguna.<br/>
+•	HTML adalah Bahasa inti dari hampir semua konten Web. Sebagian besar dari apa yang Anda lihat pada layar browser anda adalah sebuah deskripsi, secara mendasar, menggunakan HTML.<br/>
 •	use case adalah situasi dimana sistem anda digunakan untuk memenuhi satu atau lebih kebutuhan pemakaian anda.<br/>
 <p><h4>1.4	Referensi</h4></p>
 Referensi yang digunakan dalam pengembangan perangkat lunak ini adalah:<br/>
