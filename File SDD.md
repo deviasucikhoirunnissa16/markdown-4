@@ -61,26 +61,21 @@ Spesifikasi yang diharapkan pada Pencatatan Target Waktu , Jumlah Orang dan Biay
 		<li>Startvation</li>
 	</ol>
 	Pada sistem dengan banyak proses (kongkuren), terdapat 3 katagori interaksi, yaitu:
-	<ol>
-		<li>Proses-proses Saling Tidak Peduli (Independen).<br>
-		Proses-proses ini tidak dimaksudkan untuk bekerja untukmencapai tujuan tertentu. Pada multiprogramming dengan proses-proses independen, dapat berupa batch atau sesi interaktif, atau campuran keduanya.</li>
-
-		<li>Proses-proses Saling Mempedulikan Secara Tidak Langsung.<br>
-		Proses-proses tidak perlu saling mempedulikan identitas proses-proses lain, tapi sama-sama mengakses objek tertentu, seperti buffer masukan/keluaran. Proses-proses itu perlu bekerja sama (cooperation) dalam memakai bersama objek tertentu.
-		</li>
-		<li>Proses-proses konkuren mengharuskan beberapa hal yang harus ditangani, antara lain:<br>
+		1. Proses-proses Saling Tidak Peduli (Independen).<br>
+		Proses-proses ini tidak dimaksudkan untuk bekerja untukmencapai tujuan tertentu. Pada multiprogramming dengan proses-proses independen, dapat berupa batch atau sesi interaktif, atau campuran keduanya.<br>
+		2. Proses-proses Saling Mempedulikan Secara Tidak Langsung.<br>
+		Proses-proses tidak perlu saling mempedulikan identitas proses-proses lain, tapi sama-sama mengakses objek tertentu, seperti buffer masukan/keluaran. Proses-proses itu perlu bekerja sama (cooperation) dalam memakai bersama objek tertentu.<br>
+		3. Proses-proses konkuren mengharuskan beberapa hal yang harus ditangani, antara lain:<br>
 		a. Sistem operasi harus mengetahui proses-proses yang aktif<br>
 		b. Sistem operasi harus mengalokasikan dan mendealokasikan beragam sumber daya untuk tiap proses aktif. Sumber daya yang harus dikelola, antara lain:
 		<ol>
-			<li>Waktu pemroses.</li>
+			<li>Waktu pemroses</li>
 			<li>Memri</li>
 			<li>Berkas-Berkas</li>
 			<li>Perangkat I/O</li>
 		</ol>
 		c. Sistem operasi harus memproteksi data dan sumber daya fisik masing-masing proses dari gangguan proses-proses lain.<br>
 		d. Hasil-hasil proses harus independen terhadap kecepatan relatif proses-proses lain dimana eksekusi dilakukan.
-		</li>
-	</ol>
 </p>
 
 <h4>3.3 Dekomposisi Data</h4>
